@@ -1,10 +1,10 @@
 ## Hi there, I'm Manvi Singhal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer"><img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/91384699/199838797-7ec45d4f-0cb6-47ee-b674-7d2fdeb8bd2f.gif"/> </a>
             
-  <img alt="GIF" src="https://media.tenor.com/0gpTXsilLL0AAAAi/heytvm-tvm.gif" width="30px"> I'm a 2nd year undergrad pursuing my Bachelor's Degree in Computer Science Engineering at SRMIST. <br/>
- <img alt="GIF" src="https://media.tenor.com/rqQxSfiFvlsAAAAi/back-to-work-work.gif" width="30px"> I'm passionate about working on projects, participating in competitive programming and hackathons. <br/>
- <img alt="GIF" src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="30px"> My interests include various other fields such as Astronomy, Physics, and Computer Science. <br/>
- <img alt="GIF" src="https://media.tenor.com/nx_lwkP_xxIAAAAi/camera-with-flash-joypixels.gif" width="30px"> You might spot me gazing at the sky randomly or clicking pictures of anything that pleases my eyes.
+  <img alt="GIF" src="https://media.tenor.com/0gpTXsilLL0AAAAi/heytvm-tvm.gif" width="30px"> I'm a 2nd year undergrad pursuing Bachelor's Degree in Computer Science Engineering at SRMIST. <br/>
+ <img alt="GIF" src="https://media.tenor.com/rqQxSfiFvlsAAAAi/back-to-work-work.gif" width="30px"> I'm passionate about working on projects, participating in hackathons and learning new stuff. <br/>
+ <img alt="GIF" src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="30px"> My interests include various other fields such as Astronomy and Physics. <br/>
+ <img alt="GIF" src="https://media.tenor.com/nx_lwkP_xxIAAAAi/camera-with-flash-joypixels.gif" width="30px"> You might spot me gazing at the night sky or clicking pictures of anything that I find beautiful.
 <br/> 
  
 ## Languages and tools used <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" height="38px" width="38px"/>
@@ -29,6 +29,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" title="Matlab" height="32" width="32"/>
   <img src="https://user-images.githubusercontent.com/91384699/199851822-7259a8d3-ebba-470e-b649-45b646f2f147.png" title="Erlang" height="28" width="32"/>
 </p> 
+
+## Statistics <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" height="34px"/>
+<p align="center">
+            
+<img src="https://github-readme-stats.vercel.app/api?username=manvi-singhal&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvi-singhal&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
+</p>
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/91384699/199859336-5ff3b48c-4c17-42f4-b7a8-b172544dc383.gif" height="34px" width="120px"/>
 <p>
