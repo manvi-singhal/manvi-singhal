@@ -1,5 +1,5 @@
 ## Hi there, I'm Manvi Singhal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"><img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/91384699/199838797-7ec45d4f-0cb6-47ee-b674-7d2fdeb8bd2f.gif"/> </a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer"><img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/91384699/199838797-7ec45d4f-0cb6-47ee-b674-7d2fdeb8bd2f.gif"/> </a>
             
   <img alt="GIF" src="https://media.tenor.com/0gpTXsilLL0AAAAi/heytvm-tvm.gif" width="30px"> I'm a 2nd year undergrad pursuing my Bachelor's Degree in Computer Science Engineering at SRMIST. <br/>
  <img alt="GIF" src="https://media.tenor.com/rqQxSfiFvlsAAAAi/back-to-work-work.gif" width="30px"> I'm passionate about working on projects, participating in competitive programming and hackathons. <br/>
@@ -32,12 +32,12 @@
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/91384699/199859336-5ff3b48c-4c17-42f4-b7a8-b172544dc383.gif" height="34px" width="120px"/>
 <p>
-  <a href="https://www.linkedin.com/in/manvi-singhal-89aa53221/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="32" width="32"/></a>
-  <a href="mailto:manvi.singhal03@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height="26" width="32"/></a>
-  <a href="https://www.instagram.com/astromanvi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="32" width="32"/></a>
-  <a href="https://github.com/manvi-singhal" target="_blank"><img src="https://user-images.githubusercontent.com/91384699/199933582-c4206f8a-64a4-42b9-b8b9-fa7893d47e30.png" height="30" width="32"/></a>
+  <a href="https://www.linkedin.com/in/manvi-singhal-89aa53221/" target="_blank" rel="noopener noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="32" width="32"/></a>
+  <a href="mailto:manvi.singhal03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height="26" width="32"/></a>
+  <a href="https://www.instagram.com/astromanvi/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="32" width="32"/></a>
+  <a href="https://github.com/manvi-singhal" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/91384699/199933582-c4206f8a-64a4-42b9-b8b9-fa7893d47e30.png" height="30" width="32"/></a>
   <a href="https://www.codechef.com/users/manvi_03"><img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" height="32" width="32"/><a/>
-  <a href="https://open.spotify.com/user/uxetibhj65ze9pi7bse8xd190"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png" height="32" width="32" /><a/>
+  <a href="https://open.spotify.com/user/uxetibhj65ze9pi7bse8xd190" target="_blank" rel="noopener noreferrer"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png" height="32" width="32" /><a/>
 </p> 
     
 ## Holopin Board  <img src="https://user-images.githubusercontent.com/91384699/199859951-b69a1d38-317a-4d63-87c6-9e033a388167.gif" height="40" width="120px"/>
