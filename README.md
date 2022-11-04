@@ -25,7 +25,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" title="Figma" height="32" width="32"/>
   <img src="https://user-images.githubusercontent.com/91384699/199850816-4ff4bb1e-aaa6-4944-b0d0-fcaeebe71ad0.png" title="Firebase" height="32" width="32"/>
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" height="32" width="32"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" title="GitHub" height="32" width="32"/>
+  <img src="https://user-images.githubusercontent.com/91384699/199933582-c4206f8a-64a4-42b9-b8b9-fa7893d47e30.png" title="GitHub" height="32" width="32"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" title="Matlab" height="32" width="32"/>
   <img src="https://user-images.githubusercontent.com/91384699/199851822-7259a8d3-ebba-470e-b649-45b646f2f147.png" title="Erlang" height="28" width="32"/>
 </p> 
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/manvi-singhal-89aa53221/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="32" width="32"/></a>
   <a href="mailto:manvi.singhal03@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1024px-Gmail_icon_%282020%29.svg.png" height="26" width="32"/></a>
   <a href="https://www.instagram.com/astromanvi/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" height="32" width="32"/></a>
-  <a href="https://github.com/manvi-singhal" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="32" width="32"/></a>
+  <a href="https://github.com/manvi-singhal" target="_blank"><img src="https://user-images.githubusercontent.com/91384699/199933582-c4206f8a-64a4-42b9-b8b9-fa7893d47e30.png" height="30" width="32"/></a>
   <a href="https://www.codechef.com/users/manvi_03"><img src="https://cdn.codechef.com/sites/default/files/uploads/pictures/4affd66504e9b0069d72dddacaadda29.png" height="32" width="32"/><a/>
   <a href="https://open.spotify.com/user/uxetibhj65ze9pi7bse8xd190"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/image-gallery-spotify-logo-21.png" height="32" width="32" /><a/>
 </p> 
