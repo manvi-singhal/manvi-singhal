@@ -32,7 +32,7 @@
 
 ## Statistics <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" height="34px"/>
 <p>           
-<img src="https://github-readme-stats.vercel.app/api?username=manvi-singhal&theme=dark&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manvi-singhal&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="200em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvi-singhal&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
 </p>
 
