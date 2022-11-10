@@ -42,6 +42,7 @@
   <a href="mailto:manvi.singhal03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-Code?style=for-the-badge&logo=gmail&logoColor=white&color=critical" height="30"/></a>
   <a href="https://www.instagram.com/astromanvi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-Code?style=for-the-badge&logo=instagram&logoColor=white&color=e1306c" height="30"/></a>
   <a href="https://github.com/manvi-singhal" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-Code?style=for-the-badge&logo=github&logoColor=white&color=170f1e" height="30"/></a>
+   <a href="https://www.hackerrank.com/creedorian"><img src="https://img.shields.io/badge/hackerrank-Code?style=for-the-badge&logo=hackerrank&logoColor=black&color=6be774" height="30"/><a/>
   <a href="https://www.codechef.com/users/manvi_03"><img src="https://img.shields.io/badge/codechef-Code?style=for-the-badge&logo=codechef&logoColor=white&color=703c1c" height="30"/><a/>
   <a href="https://open.spotify.com/user/uxetibhj65ze9pi7bse8xd190" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/spotify-Code?style=for-the-badge&logo=spotify&logoColor=white&color=1DA865" height="30"/<a/>
 </p> 
