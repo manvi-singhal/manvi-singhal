@@ -38,6 +38,7 @@
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/91384699/199859336-5ff3b48c-4c17-42f4-b7a8-b172544dc383.gif" height="34px" width="120px"/>
 <p align="center">
+   <a href="https://my-portfolio-manvi-singhal.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-Code?style=for-the-badge&color=414749" height="30"/<a/>
   <a href="https://www.linkedin.com/in/manvi-singhal-89aa53221/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Linkedin-Code?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" height="30"/></a>
   <a href="mailto:manvi.singhal03@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/gmail-Code?style=for-the-badge&logo=gmail&logoColor=white&color=critical" height="30"/></a>
   <a href="https://www.instagram.com/astromanvi/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/instagram-Code?style=for-the-badge&logo=instagram&logoColor=white&color=e1306c" height="30"/></a>
