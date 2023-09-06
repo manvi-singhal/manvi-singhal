@@ -1,7 +1,7 @@
 ## Hi there, I'm Manvi Singhal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank" rel="noopener noreferrer"><img align="right" alt="GIF" height="200px" src="https://user-images.githubusercontent.com/91384699/199838797-7ec45d4f-0cb6-47ee-b674-7d2fdeb8bd2f.gif"/> </a>
             
-  <img alt="GIF" src="https://media.tenor.com/0gpTXsilLL0AAAAi/heytvm-tvm.gif" width="30px"> I'm a 2nd year undergrad pursuing Bachelor's Degree in Computer Science Engineering at SRMIST. <br/>
+  <img alt="GIF" src="https://media.tenor.com/0gpTXsilLL0AAAAi/heytvm-tvm.gif" width="30px"> I'm a 3rd year undergrad pursuing Bachelor's Degree in Computer Science Engineering at SRMIST. <br/>
  <img alt="GIF" src="https://media.tenor.com/rqQxSfiFvlsAAAAi/back-to-work-work.gif" width="30px"> I'm passionate about working on projects, participating in hackathons and learning new stuff. <br/>
  <img alt="GIF" src="https://media.tenor.com/nIHzGa4dXJEAAAAi/dm4uz3-foekoe.gif" width="30px"> My interests include various other fields such as Astronomy and Physics. <br/>
  <img alt="GIF" src="https://media.tenor.com/nx_lwkP_xxIAAAAi/camera-with-flash-joypixels.gif" width="30px"> You might spot me gazing at the night sky or clicking pictures of anything that I find beautiful.
