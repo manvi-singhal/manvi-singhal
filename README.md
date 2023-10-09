@@ -50,4 +50,4 @@
     
 ## Holopin Board  <img src="https://user-images.githubusercontent.com/91384699/199859951-b69a1d38-317a-4d63-87c6-9e033a388167.gif" height="30" width="120px"/>
 <!-- <h2> <img alt="GIF" height="150px" src="https://user-images.githubusercontent.com/91384699/199854771-07d628c9-e14f-48f5-b982-51130cca4c46.gif"/> </h2>-->
-[![@creedorian's Holopin board](https://holopin.me/creedorian)](https://holopin.io/@creedorian)  
+[![An image of @manvisinghal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manvisinghal)](https://holopin.io/@manvisinghal)
