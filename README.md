@@ -33,7 +33,7 @@
 ## Statistics <img src="https://media.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" height="34px"/>
 <p>           
 <img src="https://github-readme-stats.vercel.app/api?username=manvi-singhal&theme=dark&show_icons=true&hide_border=true&include_all_commits=true" height="200em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvi-singhal&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manvi-singhal&hide=c,ruby,erlang&size_weight=1&count_weight=0&theme=dark&layout=compact&langs_count=10&hide_border=true" height="200em"/>
 </p>
 
 ## Connect with me <img src="https://user-images.githubusercontent.com/91384699/199859336-5ff3b48c-4c17-42f4-b7a8-b172544dc383.gif" height="34px" width="120px"/>
